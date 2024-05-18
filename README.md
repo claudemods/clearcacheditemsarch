@@ -1,4 +1,3 @@
-Description:
 clear cached items on arch plasma 5 or 6
 simple script to clear cached items simply right click in dolphin and enter your password
 

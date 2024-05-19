@@ -32,4 +32,4 @@ sudo rm -rf /root/.cache/
 sudo rm -rf /home/lancaster/.local/share/Trash
 sudo rm -rf /root/.local/share/Trash/
 
-support me and others with the button below to keep projects like this going
+support me on paypal with link https://paypal.me/claudemods?country.x=GB&local

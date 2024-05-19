@@ -15,11 +15,13 @@ and unpack to the follow locations depending on your plasma version as its neede
 Dolphin -> Preferences -> Services -> Download New Services... ...or
 For kde5 move the downloaded scripts.sh file file to ~/.local/share/kservices5/ServiceMenus (create the folder if it's missing)
 Also use right click on the file > Properties > Permissions > And mark the checkbox next to the text "Is executable".
+
 or use $ chmod +x ./scripts.sh
 
 For kde6 move the downloaded scripts.sh
 to ~/.local/share/kio/servicemenus/ (create the folder if it's missing)
 Also use right click on the file > Properties > Permissions > And mark the checkbox next to the text "Is executable".
+
 or use $ chmod +x ./scripts.sh
 
 commands used in this menu are
